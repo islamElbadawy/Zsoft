@@ -1,0 +1,377 @@
+
+@media only screen and (min-width: 993px) and (max-width:1200px) {
+      bady{font-size: 14px;}
+    #main-nav{
+        display: block;
+    }
+    
+    #z-soft-logo img{
+        width: 40px;
+        height: 40px;
+        margin: 0 0 0 25px;
+        }
+
+    #z-soft-logo span{
+        font-size: 60%;
+        font-weight: 100;
+        display: block;
+    }
+    #nav-items ul li{
+        font-size: 65%;
+        font-weight: 100;
+        padding: 5px 5px 0; 
+            }
+    #header-slider .slide-item .slide-title{
+        width: 60%;
+        padding: 30px 10px 30px 30px;
+        }
+
+    #header-slider .slide-item .slide-title h1{
+        font-size: 130%;
+        margin-bottom: 10px;
+    }
+    #header-slider .slide-item .slide-title span{
+        font-size: 80%;
+        padding-left: 15px;
+    }
+    
+    #services .service-item{
+        width: 49%;
+    }
+    
+    #most-read .most-read-item {
+        width: 48%;
+    }
+    
+    #contact-us form input,
+    #contact-us form textarea{
+        width: 80%;
+        margin-bottom: 10px;
+        padding: 15px 15px;
+    }
+    
+    #contact-us form input[type=submit]{
+        width: 80%;
+    }
+    
+    #contact-us .find-us{
+        width: 100%;
+        border-left: none;
+        border-top: 2px solid #168ab2;
+        padding: 25px 0;
+        margin-top: 20px;
+        
+    }
+    
+    #contact-us .find-us iframe,
+    #contact-us .find-us .info-item{
+        width: 65%;
+        margin: 0 auto 20px;
+    }
+    
+    #top-footer p{
+        margin-bottom: 20px;
+    }
+   
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width:993px) {
+    bady{font-size: 12px;}
+    #main-nav{
+        display: none;
+    }
+    #menu-toggle{
+        display: block;
+    }
+    
+    #nav-items u{
+        width: 100%;
+    }
+    
+    #nav-items ul li{
+        text-align: left;
+        display: block;
+        float: none;
+        width: 100%;
+        font-size: 75%;
+        font-weight: 100;
+        padding: 5px 10px 0; 
+    }
+    
+    #nav-items ul li i{
+        display: inline-block;
+        margin-right: 10px;
+    }
+    
+    #header-slider .slide-item .slide-title{
+        width: 60%;
+        padding: 30px 30px;
+    }
+
+    #header-slider .slide-item .slide-title h1{
+        font-size: 100%;
+        font-weight: 300;
+        margin-bottom: 10px;
+    }
+    #header-slider .slide-item .slide-title span{
+        font-size: 75%;
+    }
+    
+    #services .service-item{
+        width: 48%;
+    }
+    
+    #most-read .most-read-item {
+        width: 46%;
+    }
+    #contact-us .find-us{
+        width: 100%;
+        border-left: none;
+        border-top: 2px solid #168ab2;
+        padding: 25px 0;
+        margin-top: 20px;
+        
+    }
+    
+    #top-footer img{
+        margin-bottom: 20px;
+    }
+    
+    #tech-support{
+        display: none;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        background-image: -webkit-linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+        background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+        
+    }
+    
+    #tech-support .tech-c{
+        width: 80%;
+        margin:25% auto auto 50%;
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        
+    }
+    
+    
+    
+    #tech-head{
+        padding: 10px 20px;
+        height: auto;
+    }
+
+    #tech-body{
+        height: 50%;
+        display: block;
+    }
+    #tech-icon{
+        display: block;
+    }
+    
+    
+}
+
+
+@media only screen and (min-width: 480px) and (max-width:786px) {
+    bady{font-size: 10px;}
+    #main-nav{
+        display: none;
+    }
+    #menu-toggle{
+        display: block;
+    }
+    #nav-items ul li{
+        text-align: left;
+        float: none;
+        width: 100%;
+        font-size: 75%;
+        font-weight: 100;
+        padding: 5px 10px 0; 
+    }
+    
+    #nav-items ul li i{
+        display: inline-block;
+        margin-right: 10px;
+    }
+    
+    #header-slider .slide-item .slide-title{
+        width: 60%;
+        padding: 30px 30px;
+    }
+
+    #header-slider .slide-item .slide-title h1{
+        font-size: 100%;
+        font-weight: 300;
+        margin-bottom: 10px;
+    }
+    #header-slider .slide-item .slide-title span{
+        font-size: 75%;
+    }
+    
+    #services .service-item{
+        width: 98%;
+        margin: 0 auto  20px;
+    }
+    
+    #most-read .most-read-item {
+        
+    }
+    
+    #contact-us .find-us{
+        width: 100%;
+        border-left: none;
+        border-top: 2px solid #168ab2;
+        padding: 25px 0;
+        margin-top: 20px;
+        
+    }
+    
+    #top-footer img{
+        margin-bottom: 20px;
+    }
+    
+    #tech-support{
+        display: none;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        background-image: -webkit-linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+        background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+        
+    }
+    
+    #tech-support .tech-c{
+        width: 80%;
+        margin:25% auto auto 50%;
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        
+    }
+    
+    
+    
+    #tech-head{
+        padding: 10px 20px;
+        height: auto;
+    }
+
+    #tech-body{
+        height: 50%;
+        display: block;
+    }
+    #tech-icon{
+        display: block;
+    }
+    
+}
+
+@media only screen and (max-width: 480px) {
+    bady{font-size: 8px;}
+    .container{
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+    #main-nav{
+        display: none;
+        position: -webkit-sticky;
+        position: sticky;
+    }
+    
+    #menu-toggle{
+        display: block;
+    }
+    
+    #nav-items ul li{
+        text-align: left;
+        float: none;
+        width: 100%;
+        font-size: 75%;
+        font-weight: 100;
+        padding: 5px 10px 0; 
+    }
+    
+    #nav-items ul li i{
+        display: inline-block;
+        margin-right: 10px;
+    }
+    
+    #header-slider .slide-item .slide-title{
+        width: 100%;
+        padding: 15px 0px 15px 20px;
+        font-weight: 50%;
+    }
+
+    #header-slider .slide-item .slide-title h1{
+        font-size: 80%;
+        font-weight: 100;
+        margin-bottom: 10px;
+    }
+    #header-slider .slide-item .slide-title span{
+        font-size: 65%;
+    }
+    
+    #services .service-item{
+        width: 98%;
+        margin: 0 auto  20px;
+    }
+    
+    #most-read .most-read-item {
+        
+    }
+    
+    #contact-us .find-us{
+        width: 100%;
+        border-left: none;
+        border-top: 2px solid #168ab2;
+        padding: 25px 0;
+        margin-top: 20px;
+        
+    }
+    
+    #top-footer img{
+        margin-bottom: 20px;
+    }
+    
+    #tech-support{
+        display: none;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        background-image: -webkit-linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+        background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+        
+    }
+    
+    #tech-support .tech-c{
+        width: 80%;
+        margin:25% auto auto 50%;
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        
+    }
+    
+    
+    
+    #tech-head{
+        padding: 10px 20px;
+        height: auto;
+    }
+
+    #tech-body{
+        height: 50%;
+        display: block;
+    }
+    
+    #tech-icon{
+        display: block;
+    }
+    
+}
+
